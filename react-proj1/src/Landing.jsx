@@ -17,7 +17,7 @@ const Landing = () => {
       <AppBar position="static" style={{ backgroundColor: 'black', marginBottom: '10vw' }}>
             <Toolbar>
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: 'bold' }}>
-                Sprint Planner
+                hello world
                 </Typography>
                 <Button color="inherit" onClick={handleSubmit} sx={{ ml: 'auto' }}>
                 Login
